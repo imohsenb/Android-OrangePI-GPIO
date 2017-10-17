@@ -1,2 +1,12 @@
+
+Complete as soon as possible... ;)
+
 # Android-OrangePI-GPIO
-woking on orange pi gpio with android
+working on Orange pi GPIO with android
+
+#Android CPU temperature
+
+#OrangePI GPIO
+
+
+#Android CPU temperature control with FAN
